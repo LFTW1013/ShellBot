@@ -5,7 +5,7 @@ ShellBot is a ShellShockers.io bot built using the YolkBot framework.
 ⚠️ For testing purposes only — I am not responsible for account bans or other consequences.
 --------------------------------------------------------------
 
-🚀 Installation Guide
+🚀 Installation Guide: 
 Not completly tested, if this does not work, I am working on simpler install.
 1. Download the files from this repo and save them somewhere (e.g., Desktop).
 
